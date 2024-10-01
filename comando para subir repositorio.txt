@@ -1,0 +1,10 @@
+ git checkout  - voltar uma versão - escolhe o commit "
+
+ou envie um repositório existente a partir da linha de comando
+git remote adicionar origem https://github.com/engtatiilima/cmd-git.git
+ git branch -M principal 
+git push -u origin master
+
+
+
+Verifique se o remoto foi adicionado: Você pode verificar os repositórios remotos configurados com: git remote -v
